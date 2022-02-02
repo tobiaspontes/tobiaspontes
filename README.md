@@ -30,4 +30,4 @@ Sou uma pessoa interessada em tecnologia <img src="https://media.giphy.com/media
 
 - :linguagens: COBOL (mainframe), Python, SQL, JavaScript.
 
-- :Como me contactar: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-tobias-s-pontes-586b1738/)
+- :Como me contactar: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-tobias-s-pontes-586b1738/) [![Linkedin Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtspontes/?hl=pt-br)
