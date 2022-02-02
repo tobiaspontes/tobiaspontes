@@ -24,3 +24,10 @@
 
 ### :technologist: Sobre mim :
 Sou uma pessoa interessada em tecnologia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
+- :mainframe: trabalhei com desenvolvimento e manutenção de sistemas de grande porte no Banco do Brasil.
+
+- :banco de dados: DB2, SQL Server, MYSql.
+
+- :linguagens: COBOL (mainframe), Python, SQL, JavaScript.
+
+- :Como me contactar: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-tobias-s-pontes-586b1738/)
