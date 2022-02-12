@@ -31,7 +31,7 @@ Sou uma pessoa interessada em tecnologia <img src="https://media.giphy.com/media
 
 - 👨‍💼: sou graduado em Contabilidade e Direito, com pós-graduação em Direito Tributário.
 
-- ⚓: redes sociais [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-tobias-s-pontes-586b1738/) [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtspontes/?hl=pt-br) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jtspontes) [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tobiaspontes)
+- ⚓: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-tobias-s-pontes-586b1738/) [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtspontes/?hl=pt-br) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jtspontes) [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tobiaspontes)
 - 📬: tobiaspontes@gmail.com
 ---
 
